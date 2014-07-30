@@ -16,16 +16,16 @@
     "url": "https://github.com/passy/autoprefixer-loader/issues"
   },
   "dependencies": {
-    "autoprefixer": "^1.1.20140222",
-    "loader-utils": "^0.2.1"
+    "autoprefixer": "~2.2.0",
+    "loader-utils": "~0.2.3"
   },
   "devDependencies": {
-    "webpack-dev-server": "~0.11.0",
-    "should": "~2.0.2",
-    "mocha": "~1.14.0",
-    "mocha-loader": "~0.6.3",
-    "css-loader": "~0.6.2",
-    "raw-loader": "~0.5.0"
+    "webpack-dev-server": "~1.4.7",
+    "should": "~4.0.4",
+    "mocha": "~1.21.3",
+    "mocha-loader": "~0.6.5",
+    "css-loader": "~0.7.0",
+    "raw-loader": "~0.5.1"
   },
   "keywords": [
     "webpack",
